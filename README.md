@@ -1,16 +1,17 @@
 # TinDog
 
 ### Navbar and Header
-![TinDog](https://user-images.githubusercontent.com/78266403/171706115-ba52cc8b-5c18-4ca1-a95a-3173a2ddfcd2.png)
+
+![navbar-header](https://user-images.githubusercontent.com/78266403/213886052-a737889c-84e7-4dea-b5bc-6d8b457102e5.png)
 
 ### Features and Testimonials
 
-![TinDog (2)](https://user-images.githubusercontent.com/78266403/171706654-13e56b4b-49fe-433c-9b18-9db5e13bd30d.png)
+![features-testimonials](https://user-images.githubusercontent.com/78266403/213886065-9241881d-57d3-4b31-b4f8-47fda0ac1b0b.png)
 
 ### Pricing
 
-![TinDog (3)](https://user-images.githubusercontent.com/78266403/171706919-45463801-53f5-4b1f-afda-dbc8d76f6284.png)
+![pricing](https://user-images.githubusercontent.com/78266403/213886081-5fca8bce-ba26-4757-9eac-bbeaaf7313f2.png)
 
 ### Footer
-![TinDog (4)](https://user-images.githubusercontent.com/78266403/171706954-ae96804b-6eaf-417e-95b7-18ceb1e968bd.png)
 
+![footer](https://user-images.githubusercontent.com/78266403/213886091-1c7263d5-391e-4725-bf52-abaa1b64bb58.png)
